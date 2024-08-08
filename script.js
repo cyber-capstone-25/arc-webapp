@@ -1,10 +1,290 @@
 document.addEventListener("DOMContentLoaded", () => {
     const gdprQuestions = [
-        "Do you have a Data Protection Officer appointed?",
-        "Is there a process for data breach notification?",
-        "Are data subjects informed about their rights?",
-        "Is consent obtained before processing personal data?",
-        // Add more GDPR questions as needed
+        {
+            question: "Are you processing personal data lawfully, fairly, and transparently?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Does the personal data you collect have a specified, explicit, and legitimate purpose?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Does the personal data collected stay relevant and limited to what's needed for its purpose?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Is the personal data accurate and kept up to date?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you take reasonable steps to erase or correct inaccurate personal data without delay?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you keep personal data in a form that allows identification of data subjects only for as long as necessary for its purpose?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you process personal data in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing and against accidental loss, destruction, or damage?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you take consent from users for the processing of their personal data for one or more specific purposes?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you further intendedly process user data (anything more than what the user has agreed to), without proper/clear consent?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you encrypt or pseudonymize (personally identifiable information fields within a data record are replaced by one or more artificial identifiers) user data?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Can you legally prove that the a user has consented to the processing of their personal data?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Is your consent request clear and easy to understand for the user, and separate from other information?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Is the user informed of their right to withdraw consent before giving it?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Is withdrawing consent as easy as giving consent?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Does your service/product depend on unnecessary user data processing?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you collect data of underage individuals (minors)?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Is the processing of a child's data lawful only if the child is 16 or older, or if parental consent is given for those under 16?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Does you reasonably verify parental consent using available technology?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you prohibit the processing of sensitive personal data, such as racial or ethnic origin, political opinions, religious beliefs, trade union membership, genetic data, biometric data, health data, or data about a person’s sex life or sexual orientation?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you ask the user for explicit consent for specific purposes, ensuring no law prevents this?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you avoid identifying the user if it's not necessary, and refrain from processing additional information?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "If you can't identify the user, can you demonstrate this and inform the data subject about your inability to identify them?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you provide information in writing or electronically, and orally if requested, after verifying the user's identity?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you respond within one month to requests related to data access, correction, erasure, restriction, notification, portability, objection, and automated decision-making, inform about extensions if needed, and provide information electronically if requested?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "If you do not act on a data subject's request, do you inform them within one month about the reasons and their right to lodge a complaint or seek a judicial remedy?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you provide information and actions related to data access, correction, erasure, restriction, notification, portability, objection, automated decision-making, and breach notifications free of charge?",
+            options: ["yes", "no", "only charge for complex requests", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you document all your data processing activities, including the purposes, categories of data subjects, categories of personal data, recipients, transfers, retention periods, and security measures?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Have you appointed a Data Protection Officer (DPO) if your organization requires one under the GDPR (e.g., if you process large amounts of sensitive data or are a public authority)?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you provide the users with your identity and contact details, the contact details of your representative (if applicable), and of your Data Protection Officer? (if yes)",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you conduct Data Protection Impact Assessments (DPIAs) for processing activities that are likely to result in a high risk to the rights and freedoms of individuals?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you outsource data collection and management to a third party or manage and collect data in collaboration with another organization? If yes, when requested, do you relay the request of the user to the partner/third-party organization?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you outsource the data processing activities of your organization to a third party?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Have you ensured that the third party has provisions (technical, managerial and organizational) in place to ensure GDPR compliance?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "If you hire two or more third parties to handle data processing, have you ensured a proper division of roles and responsibilities regarding compliance among them?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Have you ensured that the processor you hired is not further outsourcing the data processing to a third party?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Does the third party process data on subjects or topics other than those you have provided?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you have a written record of your processing activities?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Are you certified by any bodies (accredited by the SA) that ensure compliance to GDPR?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you have processes in place to regularly review and update your data protection policies and practices to ensure compliance with GDPR?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you inform the users about the recipients or categories of recipients of their personal data, if any?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you inform the users about your intention to transfer their personal data to a third country or international organization, and provide information about the existence or absence of an adequacy decision by the Commission or reference to the appropriate safeguards?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you inform the users about the period for which their personal data will be stored, or the criteria used to determine that period?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you specify whether providing personal data is a statutory or contractual requirement or a requirement necessary to enter into a contract, and explain the possible consequences of failing to provide such data?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "If you intend to further process the personal data for a purpose other than that for which the data were collected, do you provide the users with information on that other purpose and any relevant further information?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you provide the users with confirmation as to whether or not their personal data are being processed?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you provide the users with a copy of the personal data undergoing processing in a structured, commonly used, and machine-readable format?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you provide a copy of the personal data undergoing processing, under a reasonable fee for any additional copies requested, and, if the request is made electronically, provide the information in a commonly used electronic form unless otherwise requested by the data subject?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you allow the person whose data you are collecting to obtain the rectification of inaccurate personal data, have incomplete personal data completed (including by providing a supplementary statement), without undue delay?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you restrict processing of personal data when one of the following applies, and inform the person whose data you are collecting before the restriction is lifted?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do you allow the personal data to be transmitted directly from one controller to another where technically feasible?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Is the exercise of the right to data portability without prejudice to the right to erasure, and does the right to data portability not apply to processing necessary for performing a task carried out in the public interest or in the exercise of official authority vested in the controller?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do users have the right to object at any time to the processing of their personal data, and if they do object, do you stop processing the data unless you can demonstrate compelling legitimate grounds that override their interests, rights, and freedoms, or that are necessary for the establishment, exercise, or defense of legal claims?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do users have the right to object at any time to the processing of their personal data for direct marketing purposes, including profiling and if they do object, do you cease processing their data for such purposes?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "Do users have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning them or similarly significantly affects them?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "In cases where automated decision-making is necessary for a contract or based on consent, do you implement suitable measures to safeguard the person’s rights and freedoms and legitimate interests, including the right to obtain human intervention, to express their point of view, and to contest the decision?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "When you transfer data to third countries, do you ensure that the European Commission has declared the country's data security processes to be adequate?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        },
+        {
+            question: "If you transfer data to unapproved countries, do you implement appropriate safety measures and ensure that the data subjects can still enforce their rights and freedoms over their personal data?",
+            options: ["yes", "no", "not sure"],
+            type: "radio"
+        }
     ];
 
     const dpdpaQuestions = [
@@ -140,8 +420,8 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     ];
 
-    populateForm('gdprForm', gdprQuestions.map((q) => ({ question: q, options: ["yes", "no"], type: "radio" })));
-    populateForm('dpdpaForm', dpdpaQuestions.map((q) => ({ question: q.question, options: q.options, type: q.type })));
+    populateForm('gdprForm', gdprQuestions);
+    populateForm('dpdpaForm', dpdpaQuestions);
     updateStatusBar('gdprForm', 'gdprStatus');
     updateStatusBar('dpdpaForm', 'dpdpaStatus');
 });
