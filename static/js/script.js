@@ -569,8 +569,43 @@ function updateStatusBar(formId, statusId) {
 }
 
 function submitChecklist() {
-    alert('Thank you for filling the form.');
+    // Gather form data
+    const gdprFormData = gatherFormData('gdprForm');
+    const dpdpaFormData = gatherFormData('dpdpaForm');
+
+    // Prepare data for submission
+    const data = {
+        gdpr: gdprFormData,
+        dpdpa: dpdpaFormData
+    };
+
+    // Send data to the server
+    fetch('/submit', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => response.json())
+    .then(data => {
+        alert('Thank you for filling the form.');
+    })
+    .catch(error => {
+        console.error('Error:', error);
+    });
 }
+
+function gatherFormData(formId) {
+    const form = document.getElementById(formId);
+    const formData = {};
+    const formElements = form.querySelectorAll('input[type="radio"]:checked');
+    formElements.forEach(element => {
+        formData[element.name] = element.value;
+    });
+    return formData;
+}
+
 
 function clearResponses() {
     document.querySelectorAll('input[type="radio"]:checked, input[type="checkbox"]:checked').forEach(input => {

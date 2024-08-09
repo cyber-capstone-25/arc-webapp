@@ -1,4 +1,4 @@
-from flask import Flask, render_template, send_from_directory, jsonify
+from flask import Flask, render_template, send_from_directory, jsonify, request
 import json
 import os
 
@@ -20,6 +20,22 @@ def get_questions():
     with open('data/questions.json', 'r') as file:
         questions = json.load(file)
     return jsonify(questions)
+
+# Handle form submission
+@app.route('/submit', methods=['POST'])
+def submit():
+    print("request rec")
+    data = request.get_json()
+    gdpr_data = data.get('gdpr', {})
+    dpdpa_data = data.get('dpdpa', {})
+
+    # Process the data (e.g., save to a file or database)
+    # For demonstration, we'll just print it
+    print('GDPR Data:', gdpr_data)
+    print('DPDPA Data:', dpdpa_data)
+
+    # Respond with a success message
+    return jsonify({"message": "Data received successfully!"})
 
 if __name__ == '__main__':
     app.run(debug=True)
