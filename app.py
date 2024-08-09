@@ -1,12 +1,13 @@
 from flask import Flask, render_template, send_from_directory, jsonify, request
 import json
 import os
+import questions
 
 app = Flask(__name__)
 
 # Serve the homepage
 @app.route('/')
-def home():
+def home():  
     return render_template('index.html')
 
 # Serve static files (CSS, JS)
@@ -24,7 +25,6 @@ def get_questions():
 # Handle form submission
 @app.route('/submit', methods=['POST'])
 def submit():
-    print("request rec")
     data = request.get_json()
     gdpr_data = data.get('gdpr', {})
     dpdpa_data = data.get('dpdpa', {})
