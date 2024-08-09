@@ -345,18 +345,18 @@ document.addEventListener("DOMContentLoaded", () => {
     ];
 
     const dpdpaQuestions = [
-        {
-            question: "Which geographical location(s) do you operate from?",
-            options: ["India", "Europe", "Other"],
-            type: "checkbox",
-            category: "Data Governance and Management"
-        },
-        {
-            question: "Where are your users located?",
-            options: ["India", "Europe", "Other"],
-            type: "checkbox",
-            category: "Data Governance and Management"
-        },
+        // {
+        //     question: "Which geographical location(s) do you operate from?",
+        //     options: ["India", "Europe", "Other"],
+        //     type: "checkbox",
+        //     category: "Data Governance and Management"
+        // },
+        // {
+        //     question: "Where are your users located?",
+        //     options: ["India", "Europe", "Other"],
+        //     type: "checkbox",
+        //     category: "Data Governance and Management"
+        // },
         {
             question: "Do you have explicit consent from the data subject for processing their personal data? (eg. rather than pre-ticked boxes for consent, users need to actively click a box/button.)",
             options: ["yes", "no", "not sure"],
