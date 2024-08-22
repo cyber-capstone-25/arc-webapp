@@ -587,12 +587,23 @@ function submitChecklist() {
         },
         body: JSON.stringify(data)
     })
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    })
     .then(data => {
-        alert('Thank you for filling the form.');
+        // Redirect to the dashboard page
+        window.location.href = '/dashboard';
     })
     .catch(error => {
+        alert('There was a problem with the submission: ' + error.message);
         console.error('Error:', error);
+    })
+    .finally(() => {
+        submitButton.disabled = false;
+        submitButton.textContent = 'Submit';
     });
 }
 

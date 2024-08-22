@@ -1,4 +1,4 @@
-from flask import Flask, render_template, send_from_directory, jsonify, request
+from flask import Flask, render_template, send_from_directory, jsonify, request, redirect, url_for
 import json
 import os
 import questions
@@ -34,8 +34,11 @@ def submit():
     print('GDPR Data:', gdpr_data)
     print('DPDPA Data:', dpdpa_data)
 
-    # Respond with a success message
     return jsonify({"message": "Data received successfully!"})
+
+@app.route('/dashboard')
+def dashboard():
+    return render_template('chart.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
