@@ -1,0 +1,1333 @@
+[
+    {
+        "Item": {
+            "QuestionNo": 1,
+            "Question": "Do you maintain an overarching data protection policy that demonstrates compliance with requirements including processing, privacy by design and record keeping?",
+            "Articles": {
+                "GDPR": "5(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 2,
+            "Question": "Do you train all employees on GDPR requirements and principles, including processing activities, controls, privacy impact assessments, audits, data subject rights, reporting lines, and privacy by design, and the potential impact of noncompliance?",
+            "Articles": {
+                "GDPR": "5(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 3,
+            "Question": "Do you regularly test, retrain, and maintain records of training for employees who handle personal data on their understanding of GDPR requirements?",
+            "Articles": {
+                "GDPR": "5(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 4,
+            "Question": "Does your organization have an appointed Data Protection Officer (DPO) or any administrative role that is tasked with making sure that the user data is protected and used lawfully?",
+            "Articles": {
+                "GDPR": "37 (1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 37 (1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 5,
+            "Question": "If you require a data protection officer (DPO), does he or she have reporting authority to the highest level of management, necessary resources, independence, and authority to ensure compliance with the GDPR and other data protection laws?",
+            "Articles": {
+                "GDPR": "7(1),38(1-4,6)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(1) and Article 38(1-4,6)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 6,
+            "Question": "Is the DPO bound by secrecy or confidentiality concerning the performance of his or her tasks?",
+            "Articles": {
+                "GDPR": "38(5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 38(5)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 7,
+            "Question": "If the DPO has other responsibilities, have they been assessed to avoid conflicts of interest?",
+            "Articles": {
+                "GDPR": "38(6)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 38(6)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 8,
+            "Question": "Does the DPO have the knowledge and ability to fulfill tasks such as monitoring compliance with required regulations, providing advice w.r.t. data protection impact assessment, cooperating with supervising authorities?",
+            "Articles": {
+                "GDPR": "37(5),39(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 37(5) and Article 39(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 9,
+            "Question": "Have you shared the DPO's contact information internally, publicly, and with the relevant supervisory authority?",
+            "Articles": {
+                "GDPR": "37(7)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 37(7)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 10,
+            "Question": "Are you certified by any bodies (accredited by the Supervisory Authority) that ensure compliance with GDPR?",
+            "Articles": {
+                "GDPR": "42",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 42."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 11,
+            "Question": "Do you maintain records management and data retention policies?",
+            "Articles": {
+                "GDPR": "24(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2,3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 12,
+            "Question": "Have you documented principles to justify retention periods?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 13,
+            "Question": "Is personal data processed lawfully, fairly, and in a transparent manner?",
+            "Articles": {
+                "GDPR": "5(1),6(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1) and Article 6(1,2,3,4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 14,
+            "Question": "Is personal data collected for specified, explicit, and legitimate purposes, and not further processed in a manner incompatible with those purposes?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 15,
+            "Question": "Is personal data relevant, limited, and minimized to what is necessary in relation to the purposes for which they are processed?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 16,
+            "Question": "Is personal data accurate and kept up to date, and is every reasonable step taken to ensure inaccurate personal data is erased and rectified without delay?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 17,
+            "Question": "Is personal data kept only for as long as is necessary for the purposes for which it is processed?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 18,
+            "Question": "Is personal data processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing, and against accidental loss, destruction, or damage, using appropriate technical or organizational measures?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 19,
+            "Question": "Have you clearly identified, detailed, documented, and kept up to date the purpose(s) of processing personal data?",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 20,
+            "Question": "Have you implemented appropriate technical or organizational measures to ensure security of personal data, including protection against unauthorized processing, accidental loss, destruction, or damage?",
+            "Articles": {
+                "GDPR": "5(1),24(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1) and Article 24(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 21,
+            "Question": "Do you process special categories of sensitive data (revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data for uniquely identifying a natural person, data concerning health or data concerning a natural person\u2019s sex life or sexual orientation) with explicit consent and for legitimate activities only?",
+            "Articles": {
+                "GDPR": "9(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 9(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 22,
+            "Question": "If you process personal data relating to criminal convictions and offenses or related security measures, is this carried out under the control of official authority or authorized by union or member state law?",
+            "Articles": {
+                "GDPR": "10",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 10."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 23,
+            "Question": "Do you further process user data beyond what was initially agreed upon without proper/clear consent?",
+            "Articles": {
+                "GDPR": "5(1)(b),6(1)(a),7",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)(b), Article 6(1)(a) and Article 7."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 24,
+            "Question": "Does your service/product depend on unnecessary user data processing?",
+            "Articles": {
+                "GDPR": "5(1)(c)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)(c)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 25,
+            "Question": "Do you ensure processes are in place to embed privacy by design and default into projects, to include measures that ensure data minimization, pseudonymization, encryption and the processing of only personal data necessary for specified purposes?",
+            "Articles": {
+                "GDPR": "25(1,2),32(1,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 25(1,2) and Article 32(1,4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 26,
+            "Question": "Do you restrict access to personal data to only those employees processing the data?",
+            "Articles": {
+                "GDPR": "24(1),25(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1) and Article 25(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 27,
+            "Question": "Do you frequently audit and test systems and services to ensure ongoing confidentiality, integrity, availability, and resilience?",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 28,
+            "Question": "Do you ensure processes and systems can be restored in the event of physical or technical incidents? ",
+            "Articles": {
+                "GDPR": "32(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 29,
+            "Question": "Do you maintain a process for regularly testing, assessing, and evaluating the effectiveness of technical and organizational measures to ensure the security of the processing?",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 30,
+            "Question": "Do you apply storage and processing methods (e.g., redaction) to hard copies of personal data?",
+            "Articles": {
+                "GDPR": "24(1,2),25(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2) and Article 25(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 31,
+            "Question": "Do you maintain documented data destruction procedures in place for information that is no longer necessary, and do you take steps to ensure employees comply with procedures?",
+            "Articles": {
+                "GDPR": "24(1,2),25(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2) and Article 25(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 32,
+            "Question": "Do you encrypt or pseudonymize user data?",
+            "Articles": {
+                "GDPR": "25(1),32(1)(a)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 25(1) and Article 32(1)(a)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 33,
+            "Question": "Do you avoid identifying the user if it's unnecessary and refrain from processing additional information?",
+            "Articles": {
+                "GDPR": "5(1)(c),11",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)(c) and Article 11."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 34,
+            "Question": "Do you carry out a data protection impact assessment (DPIA) whenever the use of new technologies is likely to result in high risk to data subjects?",
+            "Articles": {
+                "GDPR": "35(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 35,
+            "Question": "Is the DPO always involved when carrying out a DPIA?",
+            "Articles": {
+                "GDPR": "35(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 36,
+            "Question": "Does the DPIA contain a systematic description of the envisaged processing operations, the purpose of processing, an assessment of the necessity and proportion of processing in relation to the purposes, an assessment of the risks to rights and freedoms of data subjects, and measures envisaged to address the risks, such as safeguards and security measures?",
+            "Articles": {
+                "GDPR": "35(7)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(7)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 37,
+            "Question": "Where appropriate, do you seek the views of data subjects or their representatives on intended processing?",
+            "Articles": {
+                "GDPR": "35(9)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(9)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 38,
+            "Question": "Do you have a process in place for detecting changes in risks, and do you review DPIAs for changed risks?",
+            "Articles": {
+                "GDPR": "35(11)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(11)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 39,
+            "Question": "Are risks arising from each DPIA mitigated?",
+            "Articles": {
+                "GDPR": "36(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 36(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 40,
+            "Question": "When risks cannot be mitigated, do you contact the supervisory authority with a list of controller and processor responsibilities, the purposes and means of intended processing, measures and safeguards provided to protect data subjects, the DPO's contact details, the DPIA, and any other requested information?",
+            "Articles": {
+                "GDPR": "36(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 36(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 41,
+            "Question": "If you are a controller employing more than 250 people or processing types of data, do you maintain a record of processing activities containing the name and contact details of the controller and DPO, the purpose of processing, a description of data subject and personal data categories, categories of recipients to whom personal data have been or will be disclosed, international transfers of data, time limits for data erasure, and a description of technical and organizational security measures in place?",
+            "Articles": {
+                "GDPR": "30(1,3,5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 30(1,3,5)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 42,
+            "Question": "If you are a processor employing more than 250 people or processing types of data, do you maintain a record of processing activities containing the name and contact details of the processor, controller, and DPO; categories of processing carried out on behalf of each controller; international transfers of data; and a description of technical and organizational security measures in place?",
+            "Articles": {
+                "GDPR": "30(2,3,5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 30(2,3,5)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 43,
+            "Question": "Do you ensure records of processing activities are maintained in writing and available to the supervisory authority on request?",
+            "Articles": {
+                "GDPR": "30(3,4) 31",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 30(3,4) 31."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 44,
+            "Question": "Where a data subject exercises their right of access, do you ensure they are provided with all items listed?",
+            "Articles": {
+                "GDPR": "15(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 15(1,2,3,4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 45,
+            "Question": "Do you maintain processes for rectifying inaccurate personal data and having incomplete personal data completed?",
+            "Articles": {
+                "GDPR": "16",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 16."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 46,
+            "Question": "Where a data subject requests the erasure of personal data, do you take every reasonable step to erase all data, links, and copies without undue delay when relevant grounds apply?",
+            "Articles": {
+                "GDPR": "17(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 17(1,2,3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 47,
+            "Question": "Where the accuracy of personal data is contested, do you restrict processing to enable verification of accuracy?",
+            "Articles": {
+                "GDPR": "18(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 18(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 48,
+            "Question": "Where processing is no longer necessary or lawful, do you have a process for restricting processing when requested by data subjects?",
+            "Articles": {
+                "GDPR": "18(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 18(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 49,
+            "Question": "Do you ensure data subjects who have obtained restriction of processing are informed before restrictions are lifted?",
+            "Articles": {
+                "GDPR": "18(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 18(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 50,
+            "Question": "Do you notify all processors and other personal data recipients of rectifications, erasures, and restrictions of processing?",
+            "Articles": {
+                "GDPR": "19",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 19."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 51,
+            "Question": "Where a data subject exercises their right to data portability, do you transmit data to another controller without hindrance, by automated means, and in a common and machine-readable format?",
+            "Articles": {
+                "GDPR": "20(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 20(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 52,
+            "Question": "Where data subjects object to having their data processed for direct marketing, do you no longer process their data?",
+            "Articles": {
+                "GDPR": "21(2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 21(2,3,4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 53,
+            "Question": "Where data subjects object to having their data processed for research or official purposes, do you no longer process their data unless you can present compelling legitimate grounds?",
+            "Articles": {
+                "GDPR": "21(1,6)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 21(1,6)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 54,
+            "Question": "Do you ensure data subjects have the right not to be subject to legal or similarly affecting decisions based on automated processing?",
+            "Articles": {
+                "GDPR": "22(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 22(1,2,3,4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 55,
+            "Question": "If you can't identify the user, do you demonstrate this and inform the data subject about your inability to identify them?",
+            "Articles": {
+                "GDPR": "11",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 11."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 56,
+            "Question": "Do you provide information orally if requested, after verifying the user's identity?",
+            "Articles": {
+                "GDPR": "12(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 57,
+            "Question": "Are you able to demonstrate that data subjects have consented to the processing of their data?",
+            "Articles": {
+                "GDPR": "7(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 58,
+            "Question": "Are consent requests clearly distinguishable from other matters, in an intelligible and accessible form, and written in clear and plain language?",
+            "Articles": {
+                "GDPR": "7(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 59,
+            "Question": "Are data subjects asked to positively opt-in (separate and unticked opt-in boxes)?",
+            "Articles": {
+                "GDPR": "7(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 60,
+            "Question": "Do data subjects have the right to withdraw consent at any time, and is withdrawing consent as easy as giving consent?",
+            "Articles": {
+                "GDPR": "7(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 61,
+            "Question": "Where processing data of subjects below the age of 16 years, is consent given and authorized by the holder of parental responsibility, and are reasonable efforts made to verify this consent?",
+            "Articles": {
+                "GDPR": "8(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 8(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 62,
+            "Question": "Are privacy notices and policies clearly provided to data subjects with processor and DPO contact information, purposes of processing, legal bases for processing, recipients of personal data, international transfers, data retention periods, and data subject rights?",
+            "Articles": {
+                "GDPR": "13(1,2),14(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 13(1,2) and Article 14(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 63,
+            "Question": "Where personal data is not obtained directly from data subjects, do you provide categories of personal data and the originating sources and whether those are publicly accessible?",
+            "Articles": {
+                "GDPR": "14(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 14(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 64,
+            "Question": "Are privacy notices and policies provided to data subjects at the time of collection from data subjects or within one month when not obtained from data subjects?",
+            "Articles": {
+                "GDPR": "13(1,2),14(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 13(1,2) and Article 14(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 65,
+            "Question": "Are privacy notices and policies provided to data subjects prior to further processing when they have not previously been communicated?",
+            "Articles": {
+                "GDPR": "13(3,4),14(4,5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 13(3,4) and Article 14(4,5)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 66,
+            "Question": "Are all communications with data subjects provided in writing using clear, concise, and transparent language?",
+            "Articles": {
+                "GDPR": "12(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 67,
+            "Question": "Where information on action taken on data subject rights cannot be provided within one month of receipt, do you inform data subjects of the required extension within one month, include reasons for the delay, and extend delivery no more than two months?",
+            "Articles": {
+                "GDPR": "12(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 68,
+            "Question": "If you do not take action on requests of the data subject, do you inform the data subject of reasons for not taking action, without delay and within one month of receipt, and include possibilities for lodging complaints with a supervisory authority or seeking judicial remedy?",
+            "Articles": {
+                "GDPR": "12(4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 69,
+            "Question": "Are information requests provided free of charge unless demonstrated by the controller to be manifestly unfounded or excessive?",
+            "Articles": {
+                "GDPR": "12(5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(5)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 70,
+            "Question": "Is your consent request clear, easy to understand, and separate from other information?",
+            "Articles": {
+                "GDPR": "6(1)(a),7(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 6(1)(a) and Article 7(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 71,
+            "Question": "Do you collect data of underage individuals (minors)?",
+            "Articles": {
+                "GDPR": "8",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 8."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 72,
+            "Question": "Do you reasonably verify parental consent using available technology when processing children's data?",
+            "Articles": {
+                "GDPR": "8(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 8(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 73,
+            "Question": "Do you maintain breach incident and notification policies and procedures?",
+            "Articles": {
+                "GDPR": "24(1,2,3),33(1,2,3,4),34(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2,3), Article 33(1,2,3,4) and Article 34(1,2,3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 74,
+            "Question": "Do you have an up-to-date data breach response plan?",
+            "Articles": {
+                "GDPR": "33(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(1,2,3,4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 75,
+            "Question": "Do you investigate and take corrective action for all personal data breaches regardless of size or scope?",
+            "Articles": {
+                "GDPR": "33(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 76,
+            "Question": "For breaches likely to result in a risk to data subjects, do you report the breach to the supervisory authority within 72 hours with categories and the number of subjects concerned, the categories and number of data records concerned, the DPO's contact information, the likely consequences of the data breach, and measures proposed or taken to address the breach?",
+            "Articles": {
+                "GDPR": "33(1,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(1,3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 77,
+            "Question": "If you are a processor, do you notify the controller without undue delay after becoming aware of a data breach?",
+            "Articles": {
+                "GDPR": "33(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 78,
+            "Question": "Do you maintain a data breach register including facts related to the breach, effects, and remedial actions taken?",
+            "Articles": {
+                "GDPR": "33(5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(5)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 79,
+            "Question": "Do you communicate breaches to affected data subjects without undue delay and in clear and plain language?",
+            "Articles": {
+                "GDPR": "34(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 34(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 80,
+            "Question": "Do you maintain policies and procedures for contracting and conducting due diligence on processors and subprocessors?",
+            "Articles": {
+                "GDPR": "24(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2,3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 81,
+            "Question": "Do you only use processors that ensure protection of data subject rights using appropriate technical and organizational measures?",
+            "Articles": {
+                "GDPR": "28(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 82,
+            "Question": "If you are a processor, do you not engage with other processors without prior specific and general written authorization from the controller?",
+            "Articles": {
+                "GDPR": "28(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 83,
+            "Question": "Are all processors governed by a contract that establishes the subject matter of processing, duration of processing, nature and purpose of processing, type of personal data and categories of data subjects, and obligation and rights of the controller?",
+            "Articles": {
+                "GDPR": "28(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 84,
+            "Question": "Do contracts and service level agreements with processors outline international data transfers restrictions, ensure confidentiality from persons processing personal data, ensure deletion or return of personal data to controllers at the end of services, allow controllers and auditors to obtain information necessary for inspections and audits, and include appropriate security measures?",
+            "Articles": {
+                "GDPR": "28(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 85,
+            "Question": "Do processors ensure data protection by design and default in all processing activities?",
+            "Articles": {
+                "GDPR": "25(1),28(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 25(1) and Article 28(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 86,
+            "Question": "Do you outsource the data processing activities of your organization to a third party?",
+            "Articles": {
+                "GDPR": "28",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 87,
+            "Question": "Have you ensured that the processor you hired is not further outsourcing the data processing to another party?",
+            "Articles": {
+                "GDPR": "28(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 88,
+            "Question": "Does the third party process data on subjects or topics other than those you have provided?",
+            "Articles": {
+                "GDPR": "28(3)(b)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(3)(b)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 89,
+            "Question": "When transferring or disclosing personal information, do you encrypt data and only send necessary data?",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 90,
+            "Question": "Do you use secure data transfer methods for all communications (e.g., email, file transfers, website forms, payments)?",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 91,
+            "Question": "Have you identified all international data flows and export mechanisms?",
+            "Articles": {
+                "GDPR": "44",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 44."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 92,
+            "Question": "Are international data transfers authorized by the Commission (Article 45) or appropriately safeguarded in addition to preserving data subject rights and legal remedies?",
+            "Articles": {
+                "GDPR": "45(1),46(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 45(1) and Article 46(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 93,
+            "Question": "Do you regularly check the Official Journal of the European Union for the commission's withdrawals and changes to data transfer authorizations?",
+            "Articles": {
+                "GDPR": "45(8)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 45(8)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 94,
+            "Question": "Are appropriate data transfer safeguards provided for by contractual clauses or provisions inserted into administrative arrangements?",
+            "Articles": {
+                "GDPR": "46(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 46(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 95,
+            "Question": "When relying on binding corporate rules for data transfers, do you ensure they are legally binding and apply to and are enforced by every member concerned of the group of undertakings, in addition to expressly conferring enforceable rights on data subjects with regard to the processing of their personal data?",
+            "Articles": {
+                "GDPR": "47(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 47(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 96,
+            "Question": "When you transfer data to third countries, do you ensure that the European Commission has declared the country's data security processes to be adequate?",
+            "Articles": {
+                "GDPR": "47(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 47(1,2)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 97,
+            "Question": "Does your organization have an appointed Data Protection Officer (DPO) or any administrative role that is tasked with making sure that the user data is protected and used lawfully?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "10(2)(A)"
+            },
+            "Explanation": "This question refers to DPDPA Article 10(2)(A)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 98,
+            "Question": "Does your organization implement the prescribed measures recommended by the independent data auditor within a reasonable timeframe?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "10(2)(B)"
+            },
+            "Explanation": "This question refers to DPDPA Article 10(2)(B)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 99,
+            "Question": "Is your purpose for processing personal data permitted by law?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "4(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 4(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 100,
+            "Question": "Do you store user data longer than required by law, or longer than necessary to serve the specified purpose, whichever is earlier?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "8(7)"
+            },
+            "Explanation": "This question refers to DPDPA Article 8(7)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 101,
+            "Question": "Are your data processing activities affiliated with the Government of India in any way or form?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "7"
+            },
+            "Explanation": "This question refers to DPDPA Article 7."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 102,
+            "Question": "Do you ensure no behavioral monitoring is conducted, and guarantee that any data analysis or algorithms used do not harm the child's well-being?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "9(3)"
+            },
+            "Explanation": "This question refers to DPDPA Article 9(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 103,
+            "Question": "Is detailed information provided to the user regarding how it will be used?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6"
+            },
+            "Explanation": "This question refers to DPDPA Article 6."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 104,
+            "Question": "If additional services require other or more data, do you obtain explicit consent from the users again?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6"
+            },
+            "Explanation": "This question refers to DPDPA Article 6."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 105,
+            "Question": "Do you have an independent data auditor who conducts regular data protection impact assessments?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "10(2)(B)"
+            },
+            "Explanation": "This question refers to DPDPA Article 10(2)(B)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 106,
+            "Question": "Do you process any data outside of India?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "16"
+            },
+            "Explanation": "This question refers to DPDPA Article 16."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 107,
+            "Question": "Do you allow users to edit/remove specific or all personal data on demand easily?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "12(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 12(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 108,
+            "Question": "Do you provide a summary of processed personal data provided to users upon request?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "11(1)(A)"
+            },
+            "Explanation": "This question refers to DPDPA Article 11(1)(A)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 109,
+            "Question": "Are data access requests fulfilled within a reasonable timeframe, ideally within 24 hours?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "11"
+            },
+            "Explanation": "This question refers to DPDPA Article 11."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 110,
+            "Question": "Does the data fiduciary have provisions in place allowing a principal to nominate another person to manage their data if they are unavailable?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "14"
+            },
+            "Explanation": "This question refers to DPDPA Article 14."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 111,
+            "Question": "Do you have explicit consent from the data subject for processing their personal data? (e.g., rather than pre-ticked boxes for consent, users need to actively click a box/button)",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "4(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 4(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 112,
+            "Question": "Do you have a notice informing the individual about the data being collected, their rights, and how to file a complaint when a user consents to process their personal data?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "5(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 5(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 113,
+            "Question": "When notifying or informing the user about their consent and rights, is it done in simple and plain language?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6(3)"
+            },
+            "Explanation": "This question refers to DPDPA Article 6(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 114,
+            "Question": "Do you take consent, under a valid contract from the users, to share their data with third parties or other organizations?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "4,7"
+            },
+            "Explanation": "This question refers to DPDPA Article 4 and Article 7."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 115,
+            "Question": "Do you collect data of individuals under the age of 18 (minors)?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "9"
+            },
+            "Explanation": "This question refers to DPDPA Article 9."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 116,
+            "Question": "Is there an option for users to easily withdraw consent?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6(4)"
+            },
+            "Explanation": "This question refers to DPDPA Article 6(4)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 117,
+            "Question": "Is the user data instantly erased/deleted after the user has withdrawn consent?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6(6)"
+            },
+            "Explanation": "This question refers to DPDPA Article 6(6)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 118,
+            "Question": "Do you explicitly obtain parental consent for storing data of underage users?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "9(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 9(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 119,
+            "Question": "Do you use third-party data processing or storing?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "8(3)"
+            },
+            "Explanation": "This question refers to DPDPA Article 8(3)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 120,
+            "Question": "Do you update users about third-party data sharing?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "7(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 7(1)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 121,
+            "Question": "Do you process any data outside of India?",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "15(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 15(1)."
+        }
+    }
+]

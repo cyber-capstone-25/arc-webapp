@@ -1,0 +1,500 @@
+/* src/App.css */
+
+/* Import the Inter font with specific weights */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+/* Reset default margins and paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set the global font family */
+body {
+  font-family: 'Inter', sans-serif;
+  background-image: url('/Users/amaydoshi/Downloads/Capstone/survey-app/src/data/bg2.png'); /* Replace with your image path */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #ffffff; /* Set default text color to white */
+}
+
+/* Center the card container */
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Full viewport height */
+}
+
+/* Style the survey card */
+.survey-card {
+  max-width: 700px;
+  border-radius: 15px;
+  overflow: hidden; /* Clip child elements that overflow */
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  margin: 20px;
+  position: relative;
+}
+
+/* Style the question section */
+.question-section {
+  background-color: #ecf6ee;
+  padding: 30px;
+  padding-top: 37px;
+}
+
+.question-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.question-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 450;
+  font-size: 18px;
+  text-align: justify;
+  line-height: 1.5;
+  color: #06402b;
+  flex: 1;
+}
+
+.hint-container {
+  background-color:#ecf6ee; /* Match question section background */
+  padding: 0 30px 10px 30px; /* Add padding and adjust bottom padding */
+  display: flex;
+  justify-content: flex-end;
+}
+
+/* Style the options section with glassmorphism */
+.options-section {
+  background: rgba(255, 255, 255, 0.2); /* Semi-transparent background */
+  backdrop-filter: blur(10px); /* Background blur */
+  -webkit-backdrop-filter: blur(10px);
+  padding: 30px;
+  color: #ffffff; /* White text color */
+}
+
+/* Options container */
+.options {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+/* Custom checkbox container */
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: inherit;
+  user-select: none;
+  margin-bottom: 20px;
+}
+
+/* Hide the default checkbox */
+.checkbox-container input[type='checkbox'] {
+  position: absolute;
+  opacity: 0;
+  height: 0;
+  width: 0;
+}
+
+/* Custom checkbox */
+.checkbox-container .checkmark {
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+  position: relative;
+}
+
+/* Label text */
+.checkbox-container .label-text {
+  margin-left: 10px;
+}
+
+/* When checked */
+.checkbox-container input:checked + .checkmark {
+  background-color: #4caf50;
+  border-color: #4caf50;
+}
+
+/* Checkmark/indicator */
+.checkbox-container .checkmark:after {
+  content: '';
+  position: absolute;
+  display: none;
+  left: 50%;
+  top: 50%;
+  width: 5px;
+  height: 9px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: translate(-50%, -60%) rotate(45deg);
+}
+
+/* Show checkmark when checked */
+.checkbox-container input:checked + .checkmark:after {
+  display: block;
+}
+
+/* Adjust hover effect */
+.checkbox-container:hover .checkmark {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Style the "Next" text */
+.next-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.next-button.disabled {
+  color: #cccccc;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.next-button:hover:not(.disabled) {
+  color: #ffffff;
+}
+
+/* Adjust the navigation container */
+.navigation {
+  text-align: right;
+}
+
+/* Style the progress bar */
+.progress-bar {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 8px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 0 0 15px 15px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background-color: #4caf50;
+  width: 0%;
+  transition: width 0.3s;
+}
+
+/* Styles for the thank-you section */
+.thank-you-section {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  padding: 30px;
+  text-align: center;
+}
+
+.thank-you-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #06402b; /* Dark text color for contrast */
+}
+
+.navigation {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+/* Style the "Hint" button */
+.hint-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #06402b;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.hint-button:hover {
+  color: #555555;
+}
+
+/* Style the "Next" button */
+.next-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.next-button.disabled {
+  color: #cccccc;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.next-button:hover:not(.disabled) {
+  color: #ffffff;
+}
+
+/* Style the hint popup */
+.hint-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.hint-content {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 500px;
+  position: relative;
+}
+
+.hint-content p {
+  font-size: 14px;
+  color: #06402b;
+}
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333333;
+  cursor: pointer;
+}
+
+/* Add styles for the navbar */
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #06402b;
+  padding: 8px 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.logo {
+  height: 50px;
+  width: auto;
+}
+
+/* Update the survey container to leave space for the navbar */
+.survey-container {
+  padding-top: 70px; /* Leave space for the navbar */
+}
+
+/* Styles for the get-started section */
+.get-started-section {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  padding: 30px;
+  text-align: center;
+}
+
+.get-started-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align:justify;
+  color: #06402b; /* Dark text color for contrast */
+  margin-bottom: 20px;
+}
+
+.start-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 15px;
+  padding: 12px 25px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+  background-color: #388e3c;
+}
+
+/* Add styles for the floating icon */
+.floating-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  background-color: #06402b;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.3s ease;
+}
+
+.floating-icon:hover {
+  background-color: #4caf50;
+}
+
+.floating-icon img {
+  width: 40px;
+  height: 40px;
+}
+
+/* User list popup styles */
+.user-list-popup {
+  position: fixed;
+  bottom: 80px;
+  right: 20px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  width: 200px;
+}
+
+.user-list-popup h4 {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  margin-bottom: 15px;
+  font-weight: 600;
+  color: #06402b;
+}
+
+.user-button {
+  display: block;
+  width: 100%;
+  font-weight: 500;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.user-button:hover {
+  background-color: #388e3c;
+}
+
+/* Styles for the navigation buttons */
+.navigation {
+  display: flex;
+  justify-content: space-between; /* Align Previous and Next buttons on opposite sides */
+  align-items: center;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+}
+
+/* Style the "Previous" button */
+.prev-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.prev-button.disabled {
+  color: #cccccc;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.prev-button:hover:not(.disabled) {
+  color: #ffffff;
+}
+
+/* Style the progress text */
+.progress-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  text-align: center;
+  flex-grow: 1;
+  margin: 0 20px; /* Ensure some spacing between buttons */
+}
+
+/* Rest of the existing next-button styles */
+.next-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.next-button.disabled {
+  color: #cccccc;
+  cursor: not-allowed;
+  text-decoration: none;
+}
+
+.next-button:hover:not(.disabled) {
+  color: #ffffff;
+}
+
+.thank-you-section {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  padding: 30px;
+  text-align: center;
+}
+
+.thank-you-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #06402b; /* Dark text color for contrast */
+}
+
