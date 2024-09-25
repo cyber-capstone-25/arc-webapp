@@ -13,7 +13,7 @@
 /* Set the global font family */
 body {
   font-family: 'Inter', sans-serif;
-  background-image: url('/Users/amaydoshi/Downloads/Capstone/survey-app/src/data/bg2.png'); /* Replace with your image path */
+  background-image: url('../src/data/bg2.png'); /* Replace with your image path */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -54,7 +54,7 @@ body {
 .question-text {
   font-family: 'Inter', sans-serif;
   font-weight: 450;
-  font-size: 18px;
+  font-size: 16px;
   text-align: justify;
   line-height: 1.5;
   color: #06402b;
@@ -497,4 +497,90 @@ body {
   line-height: 1.5;
   color: #06402b; /* Dark text color for contrast */
 }
+
+/* Input field styles for Company Name and Email */
+.input-section {
+  margin-bottom: 20px; /* Spacing between inputs */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #06402b; /* Dark green text color */
+}
+
+.input-section label {
+  font-size: 16px;
+  margin-bottom: 8px; /* Space between label and input */
+  color: #06402b; /* Consistent with the app theme */
+}
+
+.input-section input {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+  border: 2px solid rgba(255, 255, 255, 0.5); /* Transparent border */
+  border-radius: 5px;
+  color: #1b1b1b; /* White text */
+  backdrop-filter: blur(10px); /* Background blur for glass effect */
+  -webkit-backdrop-filter: blur(10px); /* Safari support */
+  transition: border-color 0.3s ease;
+  outline: none;
+}
+
+/* Focus effect for input fields */
+.input-section input:focus {
+  border-color: #4caf50; /* Green border on focus */
+  background-color: rgba(255, 255, 255, 0.3); /* Slightly increase background visibility on focus */
+}
+
+/* Placeholder text color for input fields */
+.input-section input::placeholder {
+  color: rgba(107, 107, 107, 0.7); /* Light white placeholder */
+}
+
+/* Adjust the Get Started button */
+.start-button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 12px 25px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%; /* Full width for the button */
+  max-width: 200px; /* Limit max width */
+  margin-top: 20px; /* Add margin to space out from inputs */
+}
+
+/* Hover effect for Get Started button */
+.start-button:hover {
+  background-color: #388e3c;
+}
+
+/* Improved layout for the input form section */
+.get-started-section {
+  background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); /* Add shadow for better depth */
+  max-width: 500px; /* Limit width to avoid stretching */
+  margin: auto; /* Center the card */
+}
+
+.get-started-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 450;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify;
+  color: #06402b; /* Dark text color for contrast */
+  margin-bottom: 20px; /* Spacing between text and input form */
+}
+
 
