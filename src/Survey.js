@@ -32,7 +32,12 @@ const Survey = () => {
   };
 
   const sendAllResponsesToBackend = (allResponses) => {
-    fetch('http://127.0.0.1:5000/api/submit', {
+    if (!companyName || !email) {
+      alert('Please provide Company Name and Email.');
+      return;
+    }
+
+    fetch('http://43.205.96.121:5000/api/submit', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -43,12 +48,19 @@ const Survey = () => {
         responses: allResponses, // Include all answers
       }),
     })
-      .then((res) => res.json())
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error('Failed to submit data');
+        }
+        return res.json();
+      })
       .then((data) => {
         console.log('Response from backend:', data);
+        alert('Responses submitted successfully');
       })
       .catch((err) => {
         console.error('Error sending data to backend:', err);
+        alert('There was an error submitting your responses. Please try again.');
       });
   };
 
@@ -68,7 +80,7 @@ const Survey = () => {
 
   const goToPreviousQuestion = () => {
     if (currentQuestionIndex > 0) {
-      setSelectedOption(null);
+      setSelectedOption(answers[currentQuestionIndex - 1]); // Restore previous selection
       setShowHint(false);
       setCurrentQuestionIndex(currentQuestionIndex - 1);
     }
