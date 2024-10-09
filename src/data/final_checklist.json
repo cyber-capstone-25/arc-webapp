@@ -1,0 +1,1596 @@
+[
+    {
+        "Item": {
+            "QuestionNo": 1,
+            "Question": "Do you maintain an overarching data protection policy that demonstrates compliance with requirements including processing, privacy by design and record keeping?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(2).",
+            "Simplified": "Your organization should have a main policy that clearly outlines how personal data is protected. This policy should demonstrate that you comply with all legal requirements, including how you process data, incorporate privacy measures from the start (privacy by design), and keep detailed records of all data-related activities."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 2,
+            "Question": "Do you train all employees on GDPR requirements and principles, including processing activities, controls, privacy impact assessments, audits, data subject rights, reporting lines, and privacy by design, and the potential impact of noncompliance?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(2).",
+            "Simplified": "All employees should be trained on the essential aspects of the GDPR. This training should cover how they handle personal data, the security measures in place (controls), how to conduct privacy impact assessments for new projects, performing audits, understanding individuals' rights over their data, proper reporting procedures, integrating privacy considerations from the beginning (privacy by design), and the serious consequences of not following these laws."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 3,
+            "Question": "Do you regularly test, retrain, and maintain records of training for employees who handle personal data on their understanding of GDPR requirements?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(2).",
+            "Simplified": "Employees who deal with personal data should undergo regular testing and retraining to ensure they fully understand GDPR requirements. Records of all training sessions should be maintained to demonstrate compliance and ongoing commitment to data protection."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 4,
+            "Question": "Does your organization have an appointed Data Protection Officer (DPO) or any administrative role that is tasked with making sure that the user data is protected and used lawfully?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "37 (1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 37 (1).",
+            "Simplified": "Your organization should have a designated person, such as a Data Protection Officer or someone in a similar administrative role, who is responsible for making sure that user data is protected and that all data handling complies with legal requirements."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 5,
+            "Question": "If you require a data protection officer (DPO), does he or she have reporting authority to the highest level of management, necessary resources, independence, and authority to ensure compliance with the GDPR and other data protection laws?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "7(1),38(1-4,6)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(1) and Article 38(1-4,6).",
+            "Simplified": "If you have a Data Protection Officer (DPO), they should have the authority to report directly to top management. They must have the necessary resources, independence, and power to ensure your organization complies with the GDPR and other relevant data protection laws."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 6,
+            "Question": "Is the DPO bound by secrecy or confidentiality concerning the performance of his or her tasks?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "38(5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 38(5).",
+            "Simplified": "The Data Protection Officer (DPO) must be obligated to maintain confidentiality and keep sensitive information private while performing their duties. This means they should not disclose any personal or sensitive data they access during their work to unauthorized individuals."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 7,
+            "Question": "If the DPO has other responsibilities, have they been assessed to avoid conflicts of interest?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "38(6)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 38(6).",
+            "Simplified": "If the Data Protection Officer (DPO) holds other positions within the organization, these additional responsibilities should be evaluated to ensure they do not conflict with their role in data protection. The goal is to prevent any situation where their objectivity or independence could be compromised."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 8,
+            "Question": "Does the DPO have the knowledge and ability to fulfill tasks such as monitoring compliance with required regulations, providing advice w.r.t. data protection impact assessment, cooperating with supervising authorities?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "37(5),39(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 37(5) and Article 39(1,2).",
+            "Simplified": "The Data Protection Officer (DPO) should possess the necessary knowledge and skills to perform tasks such as monitoring compliance with data protection laws, providing advice on data protection impact assessments, and cooperating effectively with supervisory authorities (regulatory bodies overseeing data protection)."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 9,
+            "Question": "Have you shared the DPO's contact information internally, publicly, and with the relevant supervisory authority?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "37(7)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 37(7).",
+            "Simplified": "The contact details of the Data Protection Officer (DPO) should be communicated internally within the organization, made available to the public, and provided to the relevant supervisory authority. This ensures transparency and allows individuals and authorities to reach out to the DPO regarding data protection matters."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 10,
+            "Question": "Are you certified by any bodies (accredited by the Supervisory Authority) that ensure compliance with GDPR?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "42",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 42.",
+            "Simplified": "Your organization should be certified by official bodies (approved by the regulatory authority) that verify you comply with GDPR regulations. This certification demonstrates that you meet established data protection standards."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 11,
+            "Question": "Do you maintain records management and data retention policies?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "24(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2,3).",
+            "Simplified": "ou should have clear policies on how you manage records and how long you keep personal data. These policies ensure that data is stored appropriately and deleted when no longer needed."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 12,
+            "Question": "Have you documented principles to justify retention periods?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "You need to clearly document the reasons for how long you keep different types of personal data. This means explaining why certain data is retained for specific time frames."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 13,
+            "Question": "Is personal data processed lawfully, fairly, and in a transparent manner?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1),6(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1) and Article 6(1,2,3,4).",
+            "Simplified": "Personal data should be handled legally, treated fairly concerning the individuals involved, and processed in a transparent way. People should understand how and why their data is used."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 14,
+            "Question": "Is personal data collected for specified, explicit, and legitimate purposes, and not further processed in a manner incompatible with those purposes?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "You should collect personal data only for clear, stated, and lawful reasons. The data shouldn't be used in ways that don't align with those original purposes."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 15,
+            "Question": "Is personal data relevant, limited, and minimized to what is necessary in relation to the purposes for which they are processed?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "Only collect and process personal data that is relevant and necessary for your specified purposes. Avoid gathering more data than you need."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 16,
+            "Question": "Is personal data accurate and kept up to date, and is every reasonable step taken to ensure inaccurate personal data is erased and rectified without delay?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "Personal data should be accurate and kept up to date. If you find any incorrect data, you should take reasonable steps to erase or correct it without unnecessary delay."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 17,
+            "Question": "Is personal data kept only for as long as is necessary for the purposes for which it is processed?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "Keep personal data only as long as necessary for the purposes you collected it. After that, securely delete or anonymize the data."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 18,
+            "Question": "Is personal data processed in a manner that ensures appropriate security of the personal data, including protection against unauthorized or unlawful processing, and against accidental loss, destruction, or damage, using appropriate technical or organizational measures?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "Process personal data in a way that ensures its security. Protect it against unauthorized access, unlawful processing, accidental loss, destruction, or damage using appropriate technical or organizational measures."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 19,
+            "Question": "Have you clearly identified, detailed, documented, and kept up to date the purpose(s) of processing personal data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1).",
+            "Simplified": "Clearly identify and document why you process personal data, keeping this information up to date. This helps maintain transparency and accountability."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 20,
+            "Question": "Have you implemented appropriate technical or organizational measures to ensure security of personal data, including protection against unauthorized processing, accidental loss, destruction, or damage?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1),24(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1) and Article 24(1,2).",
+            "Simplified": "Put appropriate technical or organizational safeguards in place to protect personal data. This includes measures to prevent unauthorized processing and to guard against accidental loss or damage."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 21,
+            "Question": "Do you process special categories of sensitive data (revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data for uniquely identifying a natural person, data concerning health or data concerning a natural person\u2019s sex life or sexual orientation) with explicit consent and for legitimate activities only?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "9(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 9(1,2).",
+            "Simplified": "If you handle sensitive personal data (like information about someone's race, political views, health, or sexual orientation), you should only process this data with the person's explicit consent and for legitimate purposes."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 22,
+            "Question": "If you process personal data relating to criminal convictions and offenses or related security measures, is this carried out under the control of official authority or authorized by union or member state law?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "10",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 10.",
+            "Simplified": "If you deal with personal data related to criminal records or offenses, this should be done under official authority or be authorized by laws within the EU or its member states."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 23,
+            "Question": "Do you further process user data beyond what was initially agreed upon without proper/clear consent?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)(b),6(1)(a),7",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)(b), Article 6(1)(a) and Article 7.",
+            "Simplified": "Do not use personal data beyond what was originally agreed upon without obtaining clear and proper consent from the individuals involved."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 24,
+            "Question": "Does your service/product depend on unnecessary user data processing?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)(c)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)(c).",
+            "Simplified": "Evaluate whether your service or product relies on processing user data that isn't necessary. Aim to avoid processing unnecessary personal data to reduce privacy risks."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 25,
+            "Question": "Do you ensure processes are in place to embed privacy by design and default into projects, to include measures that ensure data minimization, pseudonymization, encryption and the processing of only personal data necessary for specified purposes?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "25(1,2),32(1,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 25(1,2) and Article 32(1,4).",
+            "Simplified": "Your organization should integrate privacy considerations into projects right from the start. This means setting up processes to minimize the amount of personal data collected, using methods like pseudonymization (replacing personal identifiers with fake ones) and encryption (converting data into a code to prevent unauthorized access), and ensuring you only process the personal data necessary for specific, stated purposes."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 26,
+            "Question": "Do you restrict access to personal data to only those employees processing the data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "24(1),25(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1) and Article 25(1,2).",
+            "Simplified": "Only employees who need to process personal data as part of their job should have access to it. This limits the risk of unauthorized access or data breaches."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 27,
+            "Question": "Do you frequently audit and test systems and services to ensure ongoing confidentiality, integrity, availability, and resilience?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1).",
+            "Simplified": "Frequently check and test your systems and services to ensure they keep personal data confidential (private), maintain data integrity (accurate and unaltered), remain available when needed, and are resilient against disruptions or attacks."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 28,
+            "Question": "Do you ensure processes and systems can be restored in the event of physical or technical incidents? ",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "32(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1,2).",
+            "Simplified": "Have procedures in place to restore your processes and systems if there's a physical disaster or technical problem. This ensures business continuity and data protection even in unexpected events."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 29,
+            "Question": "Do you maintain a process for regularly testing, assessing, and evaluating the effectiveness of technical and organizational measures to ensure the security of the processing?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1).",
+            "Simplified": "Maintain a process to regularly test, assess, and evaluate how effective your technical and organizational measures are at securing personal data processing. This helps you identify and fix vulnerabilities."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 30,
+            "Question": "Do you apply storage and processing methods (e.g., redaction) to hard copies of personal data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "24(1,2),25(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2) and Article 25(1,2).",
+            "Simplified": "Apply secure storage and processing methods, like redacting sensitive information, to any hard copies of personal data. This prevents unauthorized people from accessing confidential information."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 31,
+            "Question": "Do you maintain documented data destruction procedures in place for information that is no longer necessary, and do you take steps to ensure employees comply with procedures?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "24(1,2),25(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2) and Article 25(1,2).",
+            "Simplified": "Have documented procedures for securely destroying information that is no longer needed. Ensure employees understand and follow these procedures to prevent old data from being misused."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 32,
+            "Question": "Do you encrypt or pseudonymize user data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "25(1),32(1)(a)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 25(1) and Article 32(1)(a).",
+            "Simplified": "Protect user data by encrypting it or replacing personal identifiers with pseudonyms. This makes it harder for unauthorized individuals to identify or misuse the data."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 33,
+            "Question": "Do you avoid identifying the user if it's unnecessary and refrain from processing additional information?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "5(1)(c),11",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 5(1)(c) and Article 11.",
+            "Simplified": "Don't identify users if it's not necessary. Refrain from collecting or processing extra information that isn't needed for your specific purposes. This minimizes privacy risks."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 34,
+            "Question": "Do you carry out a data protection impact assessment (DPIA) whenever the use of new technologies is likely to result in high risk to data subjects?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "35(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(1).",
+            "Simplified": "Whenever you introduce new technologies that could pose high risks to individuals' data privacy, carry out a DPIA. This helps identify potential risks and ways to mitigate them before implementing the technology."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 35,
+            "Question": "Is the DPO always involved when carrying out a DPIA?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "35(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(2).",
+            "Simplified": "Ensure your Data Protection Officer (DPO) is always involved when conducting a DPIA. Their expertise is crucial for effectively assessing and managing data protection risks."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 36,
+            "Question": "Does the DPIA contain a systematic description of the envisaged processing operations, the purpose of processing, an assessment of the necessity and proportion of processing in relation to the purposes, an assessment of the risks to rights and freedoms of data subjects, and measures envisaged to address the risks, such as safeguards and security measures?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "35(7)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(7).",
+            "Simplified": "A DPIA should include a detailed description of the planned data processing activities, the reasons for processing the data, an assessment of whether the processing is necessary and appropriate for those purposes, an evaluation of risks to individuals' rights and freedoms, and measures planned to address these risks, such as security safeguards."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 37,
+            "Question": "Where appropriate, do you seek the views of data subjects or their representatives on intended processing?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "35(9)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(9).",
+            "Simplified": "When appropriate, seek feedback from the individuals whose data you will process or their representatives about your intended data processing. This helps address any concerns they might have."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 38,
+            "Question": "Do you have a process in place for detecting changes in risks, and do you review DPIAs for changed risks?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "35(11)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 35(11).",
+            "Simplified": "Have a process to detect changes in data protection risks and review your DPIAs accordingly. This ensures you stay ahead of new threats and adjust your measures as needed."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 39,
+            "Question": "Are risks arising from each DPIA mitigated?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "36(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 36(1,2).",
+            "Simplified": "Take steps to reduce or eliminate the risks identified in each DPIA. Implementing appropriate safeguards protects individuals' data and your organization."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 40,
+            "Question": "When risks cannot be mitigated, do you contact the supervisory authority with a list of controller and processor responsibilities, the purposes and means of intended processing, measures and safeguards provided to protect data subjects, the DPO's contact details, the DPIA, and any other requested information?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "36(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 36(3).",
+            "Simplified": "If you cannot sufficiently reduce high risks identified in a DPIA, contact the relevant regulatory authority. Provide them with details like the responsibilities of those controlling and processing the data, the purposes and methods of processing, the measures in place to protect individuals, your DPO's contact information, the DPIA document, and any other information they request."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 41,
+            "Question": "If you are a controller employing more than 250 people or processing types of data, do you maintain a record of processing activities containing the name and contact details of the controller and DPO, the purpose of processing, a description of data subject and personal data categories, categories of recipients to whom personal data have been or will be disclosed, international transfers of data, time limits for data erasure, and a description of technical and organizational security measures in place?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "30(1,3,5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 30(1,3,5).",
+            "Simplified": "If your organization is a data controller employing more than 250 people or processing certain types of data, it's essential to maintain a comprehensive record of your data processing activities. This record should include the name and contact details of your organization and your Data Protection Officer (DPO), the purposes for which you are processing personal data, a description of the categories of data subjects and the types of personal data involved, the categories of recipients who have received or will receive the personal data, any international transfers of data to other countries, the time limits for erasing different categories of data, and a description of the technical and organizational security measures you have implemented to protect the data."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 42,
+            "Question": "If you are a processor employing more than 250 people or processing types of data, do you maintain a record of processing activities containing the name and contact details of the processor, controller, and DPO; categories of processing carried out on behalf of each controller; international transfers of data; and a description of technical and organizational security measures in place?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "30(2,3,5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 30(2,3,5).",
+            "Simplified": "If your organization acts as a data processor employing more than 250 people or processing certain types of data, you should maintain detailed records of all processing activities carried out on behalf of each data controller. This record should contain the name and contact details of your organization, the data controller(s), and your DPO; the categories of processing activities performed for each controller; details of any international data transfers; and a description of the technical and organizational security measures you have in place to safeguard the personal data you process."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 43,
+            "Question": "Do you ensure records of processing activities are maintained in writing and available to the supervisory authority on request?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "30(3,4) 31",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 30(3,4) 31.",
+            "Simplified": "Ensure that your records of data processing activities are written down and can be provided to the relevant regulatory authority if they ask for them."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 44,
+            "Question": "Where a data subject exercises their right of access, do you ensure they are provided with all items listed?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "15(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 15(1,2,3,4).",
+            "Simplified": "When any individual whose data you are collecting (data subject) asks to access their personal data, make sure you provide them with all the information they are entitled to receive under data protection laws."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 45,
+            "Question": "Do you maintain processes for rectifying inaccurate personal data and having incomplete personal data completed?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "16",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 16.",
+            "Simplified": "Have procedures to fix any incorrect personal data and to complete any incomplete data, ensuring the information you hold is accurate."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 46,
+            "Question": "Where a data subject requests the erasure of personal data, do you take every reasonable step to erase all data, links, and copies without undue delay when relevant grounds apply?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "17(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 17(1,2,3).",
+            "Simplified": "If any individual whose data you are collecting (data subject) asks for their personal data to be deleted and certain conditions are met (like the data is no longer needed), you should promptly erase all copies, links, and references to that data."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 47,
+            "Question": "Where the accuracy of personal data is contested, do you restrict processing to enable verification of accuracy?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "18(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 18(1,2).",
+            "Simplified": "If an individual disputes the accuracy of their personal data, you should limit how you use that data until you can verify its accuracy."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 48,
+            "Question": "Where processing is no longer necessary or lawful, do you have a process for restricting processing when requested by data subjects?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "18(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 18(1,2).",
+            "Simplified": "If processing the data is no longer needed or has become unlawful, have a process to restrict its use if the individual requests it."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 49,
+            "Question": "Do you ensure data subjects who have obtained restriction of processing are informed before restrictions are lifted?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "18(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 18(3).",
+            "Simplified": "If you've limited how you process the collected data of an individual (data subject) and plan to remove those limits, notify the individual before doing so."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 50,
+            "Question": "Do you notify all processors and other personal data recipients of rectifications, erasures, and restrictions of processing?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "19",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 19.",
+            "Simplified": "When you correct, delete, or restrict an individual's personal data, inform all third parties and processors who have received that data so they can make the same changes."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 51,
+            "Question": "Where a data subject exercises their right to data portability, do you transmit data to another controller without hindrance, by automated means, and in a common and machine-readable format?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "20(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 20(1,2).",
+            "Simplified": "If an individual whose data you are collecting (data subject) asks, transfer their personal data to another organization in a commonly used, machine-readable format without unnecessary barriers, using automated methods if possible."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 52,
+            "Question": "Where data subjects object to having their data processed for direct marketing, do you no longer process their data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "21(2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 21(2,3,4).",
+            "Simplified": "If an individual whose data you are collecting (data subject) objects to their data being used for direct marketing, you must stop processing their data for that purpose immediately."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 53,
+            "Question": "Where data subjects object to having their data processed for research or official purposes, do you no longer process their data unless you can present compelling legitimate grounds?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "21(1,6)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 21(1,6).",
+            "Simplified": "If an individual whose data you are collecting (data subject) object to their data being used for research or official tasks, stop processing their data unless you have strong, legitimate reasons to continue."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 54,
+            "Question": "Do you ensure data subjects have the right not to be subject to legal or similarly affecting decisions based on automated processing?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "22(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 22(1,2,3,4).",
+            "Simplified": "Ensure that individuals whose data you are collecting (data subject) are not subject to decisions made solely by automated systems that have legal or significant effects on them, without human involvement."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 55,
+            "Question": "If you can't identify the user, do you demonstrate this and inform the data subject about your inability to identify them?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "11",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 11.",
+            "Simplified": "If you can't identify an individual based on the data you have, you should let them know that you are unable to identify them and explain why."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 56,
+            "Question": "Do you provide information orally if requested, after verifying the user's identity?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "12(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(1).",
+            "Simplified": "If someone asks to receive information verbally and you've confirmed their identity, provide the information to them in that manner."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 57,
+            "Question": "Are you able to demonstrate that data subjects have consented to the processing of their data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "7(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(1).",
+            "Simplified": "Your organization needs to be able to prove that individuals have consented to you processing their personal data. This involves maintaining records or evidence that clearly show consent was obtained in a manner that is verifiable. It's important that this consent was given freely, specifically for the purpose intended, and that the individuals were adequately informed about what they were agreeing to. Being able to demonstrate consent not only ensures compliance with data protection laws but also builds trust with your customers or users."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 58,
+            "Question": "Are consent requests clearly distinguishable from other matters, in an intelligible and accessible form, and written in clear and plain language?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "7(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(2).",
+            "Simplified": "When requesting consent from individuals to process their personal data, the request must be clearly distinguishable from other information such as terms and conditions or privacy policies. It should be presented in a form that is easy to understand and access, using clear and plain language without technical jargon or legalese. This means that the consent request should stand out and be written in a way that anyone can comprehend, ensuring that individuals are fully aware of what they are consenting to and can make an informed decision."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 59,
+            "Question": "Are data subjects asked to positively opt-in (separate and unticked opt-in boxes)?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "7(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(1,2).",
+            "Simplified": "Individuals whose data you are collecting (data subjects) should be asked to actively opt-in to consent, such as by ticking an empty checkbox. Avoid using pre-ticked boxes or default settings that assume consent. This practice ensures that consent is given freely and explicitly."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 60,
+            "Question": "Do data subjects have the right to withdraw consent at any time, and is withdrawing consent as easy as giving consent?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "7(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 7(3).",
+            "Simplified": "Individuals whose data you are collecting (data subjects) have the right to withdraw their consent at any time, and the process for withdrawing should be as simple as giving consent. Providing easy methods for individuals to change their mind respects their autonomy and complies with legal requirements."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 61,
+            "Question": "Where processing data of subjects below the age of 16 years, is consent given and authorized by the holder of parental responsibility, and are reasonable efforts made to verify this consent?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "8(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 8(1,2).",
+            "Simplified": "If you process personal data of children under 16 years old, consent must be obtained from a parent or legal guardian. Reasonable efforts should be made to verify that the person providing consent holds parental responsibility, such as using age verification tools or requesting additional confirmation."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 62,
+            "Question": "Are privacy notices and policies clearly provided to data subjects with processor and DPO contact information, purposes of processing, legal bases for processing, recipients of personal data, international transfers, data retention periods, and data subject rights?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "13(1,2),14(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 13(1,2) and Article 14(1,2).",
+            "Simplified": "Your privacy notices and policies should be clearly presented to individuals. These documents need to include contact information for the data processor and Data Protection Officer (DPO), the purposes of data processing, the legal bases for processing, who will receive the personal data, any international data transfers, data retention periods, and information about the data subjects' rights."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 63,
+            "Question": "Where personal data is not obtained directly from data subjects, do you provide categories of personal data and the originating sources and whether those are publicly accessible?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "14(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 14(2).",
+            "Simplified": "When personal data is not collected directly from the individual but from other sources, you should inform the individual about the categories of personal data you have obtained, where the data originated from, and whether it came from publicly accessible sources."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 64,
+            "Question": "Are privacy notices and policies provided to data subjects at the time of collection from data subjects or within one month when not obtained from data subjects?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "13(1,2),14(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 13(1,2) and Article 14(3).",
+            "Simplified": "Provide privacy notices to data subjects at the time you collect their data directly. If the data is obtained indirectly, the privacy notice should be provided within one month of receiving the data. This ensures transparency and keeps individuals informed about how their data is being used."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 65,
+            "Question": "Are privacy notices and policies provided to data subjects prior to further processing when they have not previously been communicated?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "13(3,4),14(4,5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 13(3,4) and Article 14(4,5).",
+            "Simplified": "If you intend to process personal data for new purposes not previously communicated to the data subject, you must provide them with the relevant privacy information before starting the new processing. This keeps individuals informed and allows them to object if they wish."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 66,
+            "Question": "Are all communications with data subjects provided in writing using clear, concise, and transparent language?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "12(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(1).",
+            "Simplified": "All communications with data subjects should be in writing and use clear, concise, and transparent language. Avoid technical jargon or complex legal terms so that individuals can easily understand their rights and how their data is being used."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 67,
+            "Question": "Where information on action taken on data subject rights cannot be provided within one month of receipt, do you inform data subjects of the required extension within one month, include reasons for the delay, and extend delivery no more than two months?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "12(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(3).",
+            "Simplified": "If you cannot provide information or take action on a data subject's request within one month, you must inform them of the delay within that month. Include the reasons for the delay and ensure that the extension does not exceed an additional two months. This keeps individuals informed about the status of their requests."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 68,
+            "Question": "If you do not take action on requests of the data subject, do you inform the data subject of reasons for not taking action, without delay and within one month of receipt, and include possibilities for lodging complaints with a supervisory authority or seeking judicial remedy?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "12(4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(4).",
+            "Simplified": "If you decide not to act on a data subject's request, you must inform them promptly and within one month of receipt. Explain the reasons for not taking action and inform them of their right to lodge a complaint with a supervisory authority or seek a judicial remedy."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 69,
+            "Question": "Are information requests provided free of charge unless demonstrated by the controller to be manifestly unfounded or excessive?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "12(5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 12(5).",
+            "Simplified": "Generally, you should provide information requested by data subjects free of charge. If you believe a request is unfounded or excessive, you must demonstrate this. In such cases, you may charge a reasonable fee or refuse to act on the request, but you must inform the individual accordingly."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 70,
+            "Question": "Is your consent request clear, easy to understand, and separate from other information?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "6(1)(a),7(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 6(1)(a) and Article 7(2).",
+            "Simplified": "Your consent requests should be clear, easy to understand, and separate from other information like terms and conditions. This helps ensure that individuals are fully aware of what they are consenting to and that their consent is informed and freely given."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 71,
+            "Question": "Do you collect data of underage individuals (minors)?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "8",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 8.",
+            "Simplified": "If your organization collects personal data from minors (individuals under the age of 16), you must take extra precautions. This includes obtaining verifiable parental consent and ensuring that data collection practices protect the interests and rights of children."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 72,
+            "Question": "Do you reasonably verify parental consent using available technology when processing children's data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "8(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 8(2).",
+            "Simplified": "When processing children's personal data, you should take reasonable steps to verify that the consent you have received is indeed from a parent or legal guardian. Use available technology or methods to confirm parental responsibility, such as age verification tools or requesting additional documentation."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 73,
+            "Question": "Do you maintain breach incident and notification policies and procedures?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "24(1,2,3),33(1,2,3,4),34(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2,3), Article 33(1,2,3,4) and Article 34(1,2,3).",
+            "Simplified": "Your organization should have clear policies and procedures in place for handling data breaches. This means having documented steps to follow when a breach occurs, including how to detect, report, and investigate breaches. These policies help ensure that everyone knows their responsibilities and that breaches are managed effectively to minimize harm."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 74,
+            "Question": "Do you have an up-to-date data breach response plan?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "33(1,2,3,4)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(1,2,3,4).",
+            "Simplified": "It's important to have a current data breach response plan that outlines how your organization will respond to a data breach. This plan should be regularly reviewed and updated to address new threats or changes in your operations. An up-to-date plan ensures that your team can react quickly and efficiently in the event of a breach, reducing the potential impact on individuals and the organization."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 75,
+            "Question": "Do you investigate and take corrective action for all personal data breaches regardless of size or scope?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "33(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(1).",
+            "Simplified": "Whenever a personal data breach occurs, regardless of its size or scope, your organization should investigate it thoroughly and take corrective actions. This means identifying the cause of the breach, assessing its impact, and implementing measures to prevent similar incidents in the future. Addressing all breaches demonstrates your commitment to data protection and helps maintain trust with data subjects."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 76,
+            "Question": "For breaches likely to result in a risk to data subjects, do you report the breach to the supervisory authority within 72 hours with categories and the number of subjects concerned, the categories and number of data records concerned, the DPO's contact information, the likely consequences of the data breach, and measures proposed or taken to address the breach?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "33(1,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(1,3).",
+            "Simplified": "If a breach is likely to result in a risk to individuals' rights and freedoms, you must report it to the relevant supervisory authority within 72 hours of becoming aware of it. The report should include details such as the categories and approximate number of individuals affected, the categories and number of data records involved, contact information for your Data Protection Officer (DPO), the likely consequences of the breach, and the measures taken or proposed to address it."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 77,
+            "Question": "If you are a processor, do you notify the controller without undue delay after becoming aware of a data breach?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "33(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(2).",
+            "Simplified": "If your organization acts as a data processor and becomes aware of a data breach, you must notify the data controller without undue delay. Prompt notification allows the controller to take appropriate actions, including notifying affected individuals and authorities if necessary."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 78,
+            "Question": "Do you maintain a data breach register including facts related to the breach, effects, and remedial actions taken?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "33(5)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 33(5).",
+            "Simplified": "Keep a record of all data breaches, regardless of whether they need to be reported to the supervisory authority. This data breach register should include facts about the breach, its effects, and the remedial actions taken. Maintaining this register helps demonstrate compliance and can be useful for identifying patterns or weaknesses in data protection measures."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 79,
+            "Question": "Do you communicate breaches to affected data subjects without undue delay and in clear and plain language?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "34(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 34(1,2).",
+            "Simplified": "If a breach poses a high risk to individuals' rights and freedoms, you must inform the affected individuals without undue delay. The communication should be in clear and plain language, explaining the nature of the breach and providing information on steps they can take to protect themselves, as well as what you are doing to address the breach."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 80,
+            "Question": "Do you maintain policies and procedures for contracting and conducting due diligence on processors and subprocessors?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "24(1,2,3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 24(1,2,3).",
+            "Simplified": "Your organization should have policies and procedures for selecting and working with data processors and subprocessors. This includes conducting due diligence to ensure they have appropriate data protection measures in place and that they comply with legal requirements. Proper vetting helps safeguard personal data when it is processed by third parties."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 81,
+            "Question": "Do you only use processors that ensure protection of data subject rights using appropriate technical and organizational measures?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(1).",
+            "Simplified": "Only engage processors that can provide sufficient guarantees to implement appropriate technical and organizational measures to ensure the protection of data subjects' rights. This means choosing processors who have robust data protection practices and who can demonstrate compliance with data protection laws."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 82,
+            "Question": "If you are a processor, do you not engage with other processors without prior specific and general written authorization from the controller?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(2).",
+            "Simplified": "If you are a processor, you should not engage another processor (subprocessor) without obtaining prior specific or general written authorization from the data controller. This ensures that the controller is aware of all parties processing the data and can assess any associated risks."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 83,
+            "Question": "Are all processors governed by a contract that establishes the subject matter of processing, duration of processing, nature and purpose of processing, type of personal data and categories of data subjects, and obligation and rights of the controller?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(3).",
+            "Simplified": "All processors should be bound by a contract that specifies the subject matter and duration of processing, the nature and purpose of processing, the types of personal data, the categories of data subjects, and the obligations and rights of the controller. This contract establishes clear responsibilities and helps ensure compliance with data protection laws."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 84,
+            "Question": "Do contracts and service level agreements with processors outline international data transfers restrictions, ensure confidentiality from persons processing personal data, ensure deletion or return of personal data to controllers at the end of services, allow controllers and auditors to obtain information necessary for inspections and audits, and include appropriate security measures?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(3).",
+            "Simplified": "Contracts and service level agreements with processors should outline restrictions on international data transfers, require confidentiality from personnel processing personal data, ensure the deletion or return of personal data at the end of services, allow controllers and auditors to access information necessary for inspections and audits, and include appropriate security measures. These provisions help protect personal data throughout its lifecycle."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 85,
+            "Question": "Do processors ensure data protection by design and default in all processing activities?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "25(1),28(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 25(1) and Article 28(1).",
+            "Simplified": "Processors should implement data protection principles by design and by default in all processing activities. This means integrating data protection into processing operations and ensuring that, by default, only personal data necessary for each specific purpose is processed."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 86,
+            "Question": "Do you outsource the data processing activities of your organization to a third party?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28.",
+            "Simplified": "If your organization outsources data processing activities to a third party, you must ensure that the third party complies with data protection laws and that there are appropriate contractual agreements in place. This includes ensuring that personal data is handled securely and that data subjects' rights are protected."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 87,
+            "Question": "Have you ensured that the processor you hired is not further outsourcing the data processing to another party?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28(2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(2).",
+            "Simplified": "When you hire a processor, you should confirm that they will not further outsource the data processing to another party without your prior consent. This control helps you maintain oversight of who is processing personal data and ensures that all parties comply with data protection obligations."
+
+        } 
+    },
+    {
+        "Item": {
+            "QuestionNo": 88,
+            "Question": "Does the third party process data on subjects or topics other than those you have provided?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "28(3)(b)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 28(3)(b).",
+            "Simplified": "Ensure that any third party processing data on your behalf only processes the data you have provided and for the purposes you have specified. They should not process data on subjects or topics beyond what you have authorized, as this could lead to unauthorized use of personal data."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 89,
+            "Question": "When transferring or disclosing personal information, do you encrypt data and only send necessary data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1).",
+            "Simplified": "When transferring or disclosing personal information, you should encrypt the data and only send the information that is necessary for the purpose. Using encryption protects the data during transfer, and minimizing the data shared reduces the risk of unnecessary exposure."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 90,
+            "Question": "Do you use secure data transfer methods for all communications (e.g., email, file transfers, website forms, payments)?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "32(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 32(1).",
+            "Simplified": "Employ secure methods for all data communications, such as encrypted email, secure file transfers, encrypted website forms, and secure payment systems. This ensures that personal data is protected during transmission and reduces the risk of interception or unauthorized access."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 91,
+            "Question": "Have you identified all international data flows and export mechanisms?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "44",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 44.",
+            "Simplified": "Your organization should identify all instances where personal data is transferred internationally and understand the legal mechanisms that allow these transfers. Knowing where data is going helps ensure compliance with data protection regulations regarding international data transfers."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 92,
+            "Question": "Are international data transfers authorized by the Commission (Article 45) or appropriately safeguarded in addition to preserving data subject rights and legal remedies?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "45(1),46(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 45(1) and Article 46(1,2).",
+            "Simplified": "When transferring personal data internationally, ensure that the transfer is authorized by the relevant authorities (such as the European Commission under Article 45) and that appropriate safeguards are in place. This includes preserving data subjects' rights and providing legal remedies in case of violations."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 93,
+            "Question": "Do you regularly check the Official Journal of the European Union for the commission's withdrawals and changes to data transfer authorizations?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "45(8)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 45(8).",
+            "Simplified": "Regularly check official sources, like the Official Journal of the European Union, for any updates, withdrawals, or changes to data transfer authorizations. Staying informed helps ensure that your international data transfers remain compliant with current regulations."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 94,
+            "Question": "Are appropriate data transfer safeguards provided for by contractual clauses or provisions inserted into administrative arrangements?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "46(3)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 46(3).",
+            "Simplified": "Implement appropriate safeguards for international data transfers, such as using standard contractual clauses or provisions in administrative arrangements. These legal tools help protect personal data when it is transferred to countries without adequate data protection laws."
+
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 95,
+            "Question": "When relying on binding corporate rules for data transfers, do you ensure they are legally binding and apply to and are enforced by every member concerned of the group of undertakings, in addition to expressly conferring enforceable rights on data subjects with regard to the processing of their personal data?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "47(1)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 47(1).",
+            "Simplified": "If you rely on binding corporate rules for transferring data within a group of companies, ensure that these rules are legally binding and enforceable by all relevant members of the group. They should grant enforceable rights to data subjects regarding the processing of their personal data, providing a high level of protection."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 96,
+            "Question": "When you transfer data to third countries, do you ensure that the European Commission has declared the country's data security processes to be adequate?",
+            "Regulation":"GDPR",
+            "Articles": {
+                "GDPR": "47(1,2)",
+                "DPDPA": ""
+            },
+            "Explanation": "This question refers to GDPR Article 47(1,2).",
+            "Simplified": "When transferring personal data to third countries, verify that the European Commission has declared that the country's data protection laws provide an adequate level of security. This confirmation helps ensure that personal data continues to be protected even when processed outside the EU."
+        }
+    },
+    
+    {
+        "Item": {
+            "QuestionNo": 97,
+            "Question": "Does your organization have an appointed Data Protection Officer (DPO) or any administrative role that is tasked with making sure that the user data is protected and used lawfully?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "10(2)(A)"
+            },
+            "Explanation": "This question refers to DPDPA Article 10(2)(A).",
+            "Simplified": "Your organization should have a designated person, like a Data Protection Officer or someone in a similar role, who is responsible for ensuring that user data is protected and handled lawfully. This person oversees data protection strategies and compliance with relevant laws, ensuring that personal data is processed securely and ethically."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 98,
+            "Question": "Does your organization implement the prescribed measures recommended by the independent data auditor within a reasonable timeframe?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "10(2)(B)"
+            },
+            "Explanation": "This question refers to DPDPA Article 10(2)(B).",
+            "Simplified": "When an independent data auditor reviews your data protection practices and recommends certain measures, your organization should implement these suggestions within a reasonable timeframe. This shows a commitment to improving data security and compliance with legal standards."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 99,
+            "Question": "Is your purpose for processing personal data permitted by law?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "4(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 4(1).",
+            "Simplified": "Your organization must ensure that the reasons for processing personal data are permitted by law. This means that any collection, use, or handling of personal information should be for legitimate purposes that are legally acceptable."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 100,
+            "Question": "Do you store user data longer than required by law, or longer than necessary to serve the specified purpose, whichever is earlier?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "8(7)"
+            },
+            "Explanation": "This question refers to DPDPA Article 8(7).",
+            "Simplified": "You should not keep user data for longer than required by law or beyond the time necessary to fulfill the specific purpose for which it was collected, whichever is earlier. This practice minimizes the risk of data breaches and respects users' privacy by not holding onto their data indefinitely."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 101,
+            "Question": "Are your data processing activities affiliated with the Government of India in any way or form?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "7"
+            },
+            "Explanation": "This question refers to DPDPA Article 7.",
+            "Simplified": "If your data processing activities are affiliated with the Government of India in any way, it's important to recognize that there may be additional legal obligations or exemptions that apply. Understanding this affiliation helps ensure compliance with relevant laws and regulations specific to government-related data processing."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 102,
+            "Question": "Do you ensure no behavioral monitoring is conducted, and guarantee that any data analysis or algorithms used do not harm the child's well-being?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "9(3)"
+            },
+            "Explanation": "This question refers to DPDPA Article 9(3).",
+            "Simplified": "When processing data related to children, your organization must ensure that no behavioral monitoring is conducted, and that any data analysis or algorithms used do not harm the child's well-being. This involves taking extra precautions to protect minors from potential negative impacts of data processing."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 103,
+            "Question": "Is detailed information provided to the user regarding how it will be used?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6"
+            },
+            "Explanation": "This question refers to DPDPA Article 6.",
+            "Simplified": "Users should be given clear and detailed information about how their personal data will be used. This transparency allows individuals to make informed decisions about sharing their data and builds trust between users and your organization."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 104,
+            "Question": "If additional services require other or more data, do you obtain explicit consent from the users again?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6"
+            },
+            "Explanation": "This question refers to DPDPA Article 6.",
+            "Simplified": "If you require more data from users for additional services, you must obtain explicit consent from them again. This means clearly asking for permission and ensuring that users agree to the new data collection and usage terms."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 105,
+            "Question": "Do you have an independent data auditor who conducts regular data protection impact assessments?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "10(2)(B)"
+            },
+            "Explanation": "This question refers to DPDPA Article 10(2)(B).",
+            "Simplified": "Having an independent data auditor conduct regular data protection impact assessments helps your organization identify and mitigate risks associated with data processing activities. This proactive approach enhances data security and compliance with legal requirements."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 106,
+            "Question": "Do you process any data outside of India?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "16"
+            },
+            "Explanation": "This question refers to DPDPA Article 16.",
+            "Simplified": "If your organization processes any personal data outside of India, you need to be aware of and comply with international data transfer regulations. This includes ensuring that data is protected according to Indian laws and any applicable foreign laws."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 107,
+            "Question": "Do you allow users to edit/remove specific or all personal data on demand easily?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "12(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 12(1).",
+            "Simplified": "Users should be able to easily edit or delete their personal data upon request. Providing this option empowers users to control their information and ensures compliance with data protection laws regarding individual rights."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 108,
+            "Question": "Do you provide a summary of processed personal data provided to users upon request?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "11(1)(A)"
+            },
+            "Explanation": "This question refers to DPDPA Article 11(1)(A).",
+            "Simplified": "When users request it, your organization should provide a summary of their processed personal data. This helps maintain transparency and allows users to understand what information you hold about them."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 109,
+            "Question": "Are data access requests fulfilled within a reasonable timeframe, ideally within 24 hours?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "11"
+            },
+            "Explanation": "This question refers to DPDPA Article 11.",
+            "Simplified": "Data access requests from users should be fulfilled within a reasonable timeframe, ideally within 24 hours. Prompt responses demonstrate respect for users' rights and enhance trust in your organization's data handling practices."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 110,
+            "Question": "Does the data fiduciary have provisions in place allowing a principal to nominate another person to manage their data if they are unavailable?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "14"
+            },
+            "Explanation": "This question refers to DPDPA Article 14.",
+            "Simplified": "Your organization should have provisions that allow a data principal (the person to whom the data relates) to nominate someone else to manage their data if they are unavailable. This could be useful in cases where the principal is incapacitated or otherwise unable to manage their data themselves."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 111,
+            "Question": "Do you have explicit consent from the data subject for processing their personal data? (e.g., rather than pre-ticked boxes for consent, users need to actively click a box/button)",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "4(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 4(1).",
+            "Simplified": "You must have explicit consent from individuals before processing their personal data. This means that users should actively indicate their agreement, such as by clicking a button or ticking an unchecked box, rather than using pre-selected options or assumptions of consent."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 112,
+            "Question": "Do you have a notice informing the individual about the data being collected, their rights, and how to file a complaint when a user consents to process their personal data?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "5(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 5(1).",
+            "Simplified": "When users consent to the processing of their personal data, you should provide a notice that informs them about what data is being collected, their rights regarding that data, and how to file a complaint if necessary. This ensures users are fully informed about how their data will be used."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 113,
+            "Question": "When notifying or informing the user about their consent and rights, is it done in simple and plain language?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6(3)"
+            },
+            "Explanation": "This question refers to DPDPA Article 6(3).",
+            "Simplified": "Any notifications or information provided to users about their consent and rights should be written in clear and simple language. Avoiding technical jargon helps users understand their rights and the implications of consenting to data processing."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 114,
+            "Question": "Do you take consent, under a valid contract from the users, to share their data with third parties or other organizations?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "4,7"
+            },
+            "Explanation": "This question refers to DPDPA Article 4 and Article 7.",
+            "Simplified": "If you intend to share users' personal data with third parties or other organizations, you must obtain consent from the users under a valid contract. This ensures that users are aware of and agree to how their data will be shared and used beyond your organization."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 115,
+            "Question": "Do you collect data of individuals under the age of 18 (minors)?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "9"
+            },
+            "Explanation": "This question refers to DPDPA Article 9.",
+            "Simplified": "If your organization collects data from individuals under the age of 18, you need to comply with additional legal requirements for processing minors' data. This often includes obtaining parental consent and implementing stricter data protection measures."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 116,
+            "Question": "Is there an option for users to easily withdraw consent?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6(4)"
+            },
+            "Explanation": "This question refers to DPDPA Article 6(4).",
+            "Simplified": "Users should have the option to easily withdraw their consent for data processing at any time. Providing a simple method for consent withdrawal respects users' autonomy and complies with legal obligations regarding individual rights."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 117,
+            "Question": "Is the user data instantly erased/deleted after the user has withdrawn consent?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "6(6)"
+            },
+            "Explanation": "This question refers to DPDPA Article 6(6).",
+            "Simplified": "When a user withdraws their consent, you should promptly erase or delete their personal data. This action ensures that you no longer process their data without consent, in accordance with data protection laws."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 118,
+            "Question": "Do you explicitly obtain parental consent for storing data of underage users?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "9(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 9(1).",
+            "Simplified": "For storing or processing data of users under the age of 18, you must explicitly obtain consent from their parents or legal guardians. This protects minors and ensures that data collection is authorized by someone responsible for the child's welfare."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 119,
+            "Question": "Do you use third-party data processing or storing?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "8(3)"
+            },
+            "Explanation": "This question refers to DPDPA Article 8(3).",
+            "Simplified": "If your organization uses third-party services to process or store personal data, you need to ensure that these parties comply with data protection laws and that users are informed about this arrangement."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 120,
+            "Question": "Do you update users about third-party data sharing?",
+           "Regulation":"DPDPA",
+           "Articles": {
+                "GDPR": "",
+                "DPDPA": "7(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 7(1).",
+            "Simplified": "Users should be kept informed about any sharing of their data with third parties. This includes updating them when their data is shared and providing details about who the third parties are and how they will use the data."
+        }
+    },
+    {
+        "Item": {
+            "QuestionNo": 121,
+            "Question": "Do you process any data outside of India?",
+            "Regulation":"DPDPA",
+            "Articles": {
+                "GDPR": "",
+                "DPDPA": "15(1)"
+            },
+            "Explanation": "This question refers to DPDPA Article 15(1).",
+            "Simplified": "Processing personal data outside of India requires compliance with international data protection regulations and may involve additional legal considerations. Your organization should ensure that data processed abroad is protected to the same standards as required within India."
+        }
+    }
+]

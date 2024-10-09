@@ -439,6 +439,8 @@ body {
   border: none;
   cursor: pointer;
   text-decoration: underline;
+  z-index: 1000; /* Ensure it stays above other elements */
+
 }
 
 .prev-button.disabled {
@@ -581,6 +583,21 @@ body {
   text-align: justify;
   color: #06402b; /* Dark text color for contrast */
   margin-bottom: 20px; /* Spacing between text and input form */
+}
+
+/* Position the questions-left div at the bottom of the screen */
+.questions-left {
+  position:absolute;
+  bottom: 20px;
+  width: 58%; /* Ensure the div spans the full width */
+  text-align: right;
+  overflow: none;
+}
+
+.questions-left p {
+  margin: 0; /* Reset margins */
+  font-size: 14px;
+  color: white; /* White text */
 }
 
 
